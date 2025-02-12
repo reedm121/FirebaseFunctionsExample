@@ -2,6 +2,9 @@
 Made alongside [this Medium article](https://medium.com/@reedm121/serverless-ios-integrating-firebase-functions-into-your-native-ios-app-2639a5b40cfa)
 ![Screen Recording 2025-02-12 at 11 59 53 AM](https://github.com/user-attachments/assets/1e9f01f1-6a17-413a-8209-a0ec9ac9a04b)
 
+<br>
+
+    
 # How to deploy a Firebase function
 
 ## **1 Install Firebase CLI (If Not Installed)**
