@@ -7,10 +7,13 @@
 
 import SwiftUI
 import Firebase
+import FirebaseAuth
 
 @main
 struct FirebaseFunctionsExampleApp: App {
     init() {
+        FirebaseConfiguration.shared.setLoggerLevel(.debug)
+        
         FirebaseApp.configure()
     }
     
